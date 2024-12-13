@@ -45,7 +45,6 @@
 [website]: https://thealpha.modoo.at
 
 <br><br><br><br><br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongteam)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongteam&layout=compact)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeongteam&show_icons=true&locale=en" alt="jeongteam" />
